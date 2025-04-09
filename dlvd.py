@@ -1,4 +1,4 @@
-# 這是在終端機輸入url網址的程式版本
+# 這是在終端機輸入url網址的程式版本，故導入sys模組。
 
 import yt_dlp
 import sys
