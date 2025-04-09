@@ -5,7 +5,7 @@
 在終端機輸入brew install ffmpeg，來安裝ffmpeg。
 安裝完成後在終端機輸入 ffmpeg -version 可查看安裝是否成功，以及ffmpeg的版本。
 
-Homebrew的安裝方式：在終端機輸入/n\n
+Homebrew的安裝方式：在終端機輸入
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 安裝過程時間較長，安裝完成後可輸入 brew --version 查看版本。
 
