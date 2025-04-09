@@ -1,7 +1,8 @@
+# 這是在終端機輸入url網址的程式版本
+
 import yt_dlp
 import sys
 
-# url = 'https://youtu.be/ZCyWe3Ib7DI?si=A8DZ2juZsx9BYUrG'
 url = sys.argv[1]
 
 ydl_opts = {
