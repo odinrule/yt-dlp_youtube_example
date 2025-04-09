@@ -1,6 +1,6 @@
 import yt_dlp
 
-url = 'https://youtu.be/RGOj5yH7evk?si=abVun1lXT5sfIzGb'
+url = ''  # 在引號內貼上網址
 
 ydl_opts = {
     'format': 'bestvideo[height=1080]+bestaudio/best',  # 下載 1080p 影片 + 最佳音訊
