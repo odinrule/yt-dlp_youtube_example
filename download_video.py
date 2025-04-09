@@ -8,5 +8,9 @@ ydl_opts = {
     'outtmpl': 'videos/%(title)s.%(ext)s',  # 指定儲存路徑
 }
 
+# 稍後加入函式subtitle可以下載隨附影片的字幕檔
+
+# 另一個函式sound或類別，測試可否只下載聲音檔
+
 with yt_dlp.YoutubeDL(ydl_opts) as ydl:
     ydl.download([url])
