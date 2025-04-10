@@ -9,7 +9,8 @@ Homebrew的安裝方式：在終端機輸入
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-安裝過程時間較長，安裝完成後可輸入 brew --version 查看版本。
+安裝過程時間較長，安裝完成後可輸入
+brew --version 查看版本。
 
 本專案共兩個版本，dlvd.py和download_video.py。可選擇其中一個使用。
 （一） dlvd.py是在終端機輸入python3 dlvd.py 需下載的url
