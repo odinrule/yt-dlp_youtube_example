@@ -16,3 +16,11 @@ brew --version 查看版本。
 （一） dlvd.py是在終端機輸入python3 dlvd.py 需下載的url
 （二）download_video.py，須在程式碼url變數的引號內貼上url。
 
+為了通過youtube的確認使用者為人類，請作以下步驟：
+(1)在chrome瀏覽器安裝Get cookies.txt LOCALLY擴充功能
+https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
+
+(2)在chrome中登入youtube帳戶，並進入欲下載影片頁面。
+(3）打開Get cookies.txt LOCALLY擴充功能，點擊Export All Cookies，瀏覽器將下載cookies.txt。
+(4) 將cookies.txt放在與dlvd.py及download_video.py同一個資料夾
+(5)執行py檔
