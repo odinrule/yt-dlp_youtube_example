@@ -13,10 +13,12 @@ Homebrew的安裝方式：在終端機輸入
 brew --version 查看版本。
 
 本專案共兩個版本，dlvd.py和download_video.py。可選擇其中一個使用。
-（一） dlvd.py是在終端機輸入python3 dlvd.py 需下載的url
-（二）download_video.py，須程式執行時在終端機輸入url。
+（一） dlvd.py是在終端機輸入指令python3 dlvd.py 貼上url
+（二）download_video.py，須程式執行時在終端機貼上url。
 
 
+
+-----------------------------------------------------------------------------------------------------------
 為了通過youtube的確認使用者為人類，請作以下步驟：
 (1)在chrome瀏覽器安裝Get cookies.txt LOCALLY擴充功能
 https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
