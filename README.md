@@ -19,7 +19,7 @@ brew --version 查看版本。
 
 
 -----------------------------------------------------------------------------------------------------------
-為了通過youtube的確認使用者為人類，請作以下步驟：
+若使用手動放入cookies檔，用作通過youtube的確認使用者為人類，請作以下步驟：
 (1)在chrome瀏覽器安裝Get cookies.txt LOCALLY擴充功能
 https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc
 
